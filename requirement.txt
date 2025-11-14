@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+#-- pgsql--
+psycopg2-binary
+redis
+python-dotenv
+  
+requests
+google-generativeai
+
+textblob 
+nltk
+ 
+SpeechRecognition
+pyttsx3
+gTTS
+pydub
+
+black
+flake8
